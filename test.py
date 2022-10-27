@@ -1,2 +1,2 @@
-Print("Python good")
+print("Python god")
 
